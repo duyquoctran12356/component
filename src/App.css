@@ -1,0 +1,208 @@
+.App {
+  width: 100%;
+  height: 100%;
+}
+
+h2 {
+  color: black;
+  margin-left: 80px;
+}
+
+body {
+  margin: 5px;
+  padding: 5px;
+  background-color: rgb(201, 199, 204);
+}
+
+.contents {
+  float: left;
+  width: 60%;
+  height: auto;
+  margin-top: 20px;
+
+}
+
+img {
+  margin-top: 5px;
+  margin-bottom: 2px;
+  float: left;
+  width: 30%;
+  margin-left: 10px;
+}
+
+h2 {
+  width: 300px;
+  height: 10px;
+  margin-top: 20px;
+  margin-left: 100px;
+
+}
+
+.background {
+  margin-top: -20px;
+}
+
+.content-stt {
+  float: left;
+  background-color: rgb(239, 238, 241);
+  border-style: none;
+  height: auto;
+  margin: 2px;
+  margin-left: 100px;
+}
+
+.context {
+  margin-left: 320px;
+  margin-top: 18px;
+  width: 650px;
+}
+
+h5 {
+  margin-top: 12px;
+}
+
+p#title {
+  color: rgb(95, 95, 226);
+  margin-top: -10px;
+  height: 4px;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+  font-size: small;
+}
+
+p.by {
+  font-family: serif;
+
+}
+
+.block {
+  float: right;
+  width: 250px;
+  padding-left: auto;
+  height: auto;
+}
+
+.Sign-in {
+  width: 300px;
+  height: 450px;
+  background-color: tomato;
+  font-size: 25px;
+  margin: 0 0 0 20px
+}
+
+p.sign-in {
+  margin-left: 10px;
+  margin-right: 10px;
+  color: white;
+  font-size: 16px;
+  text-align: center;
+}
+
+h5 {
+  margin-top: 2px;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: white;
+  font-size: x-large;
+  text-align: center;
+  height: 40px;
+}
+
+input {
+  border-style: none;
+  background-color: rgb(119, 106, 104);
+  height: 40px;
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: white;
+  width: 270px;
+  opacity: 0.5;
+}
+
+button {
+  margin-left: 120px;
+  border-style: none;
+  font-size: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: auto;
+  width: 270px;
+  color: rgb(207, 65, 40);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+input#check-box {
+  width: 20px;
+  height: 20px;
+  padding-bottom: 4px;
+  bottom: -2px;
+}
+
+button#read-more {
+  width: 100px;
+  height: 30px;
+  font-size: small;
+  background-color: rgb(184, 181, 181);
+  color: black;
+  margin-top: auto;
+  margin-left: auto;
+}
+
+.newfeed-stt {
+  width: 300px;
+  background-color: rgb(239, 238, 241);
+}
+
+.newfeed-title {
+  width: 300px;
+  height: 30px;
+  margin-top: 10px;
+  color: white;
+  background-color: rgb(95, 95, 209);
+  text-align: center;
+  font-weight: bold
+}
+
+
+img.newfeed {
+  width: 50px;
+  height: 40px;
+}
+
+.new_feeds {
+  width: 300px;
+  height: auto;
+  margin: 0 0 0 20px;
+  background-color: rgb(239, 238, 241);
+}
+
+div.newfeed-stt {
+  height: auto;
+  border-top: 0.01mm solid rgb(184, 182, 182);
+}
+
+p.newfeed-stt {
+  width: 200px;
+  height: auto;
+  margin-bottom: auto;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 120%;
+  margin-top: auto;
+  margin-left: 0px;
+  color: rgb(95, 95, 209)
+}
+
+.newfeed__stt {
+  width: 230px;
+  margin-left: auto;
+}
+
+p.newfeed-text {
+  margin-top: auto;
+  text-align: initial;
+}
